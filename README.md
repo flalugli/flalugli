@@ -1,7 +1,7 @@
 # Fla
 Hi I'm Flavio, a 19 years old student who codes in his free time
 - My preferred programming language is python
-- I also code in javascript and c++ sometimes
+- I can also code in c++ 
 ## Contact me
 You can find me on
 - Discord: flalugli
